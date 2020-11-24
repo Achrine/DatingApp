@@ -432,6 +432,8 @@ $RECYCLE.BIN/
 .idea/
 *.sln.iml
 
+ssl
+
 ##
 ## Visual Studio Code
 ##
